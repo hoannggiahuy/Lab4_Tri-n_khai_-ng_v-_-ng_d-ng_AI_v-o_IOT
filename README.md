@@ -56,15 +56,25 @@ FastAPI Deployment
 📂 Cấu trúc project
 lab4_aiot_forecasting_predictive_analytics_uci_appliances/
 │
+
 ├── data/
+
 ├── diagrams/
+
 ├── figures/
+
 ├── models/
+
 ├── notebooks/
+
 ├── outputs/
+
 ├── src/
+
 ├── README.md
+
 └── requirements.txt
+
 📊 Dataset sử dụng
 UCI Appliances Energy Prediction Dataset
 
